@@ -1,0 +1,5 @@
+/Users/kristinanesterova/Desktop/C#/obj/Debug/net7.0/C#.csproj.AssemblyReference.cache
+/Users/kristinanesterova/Desktop/C#/obj/Debug/net7.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinanesterova/Desktop/C#/obj/Debug/net7.0/C#.AssemblyInfoInputs.cache
+/Users/kristinanesterova/Desktop/C#/obj/Debug/net7.0/C#.AssemblyInfo.cs
+/Users/kristinanesterova/Desktop/C#/obj/Debug/net7.0/C#.csproj.CoreCompileInputs.cache

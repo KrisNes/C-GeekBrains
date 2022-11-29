@@ -1,0 +1,15 @@
+/Users/kristinanesterova/Desktop/C#/Task00/bin/Debug/net7.0/Task00
+/Users/kristinanesterova/Desktop/C#/Task00/bin/Debug/net7.0/Task00.deps.json
+/Users/kristinanesterova/Desktop/C#/Task00/bin/Debug/net7.0/Task00.runtimeconfig.json
+/Users/kristinanesterova/Desktop/C#/Task00/bin/Debug/net7.0/Task00.dll
+/Users/kristinanesterova/Desktop/C#/Task00/bin/Debug/net7.0/Task00.pdb
+/Users/kristinanesterova/Desktop/C#/Task00/obj/Debug/net7.0/Task00.csproj.AssemblyReference.cache
+/Users/kristinanesterova/Desktop/C#/Task00/obj/Debug/net7.0/Task00.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinanesterova/Desktop/C#/Task00/obj/Debug/net7.0/Task00.AssemblyInfoInputs.cache
+/Users/kristinanesterova/Desktop/C#/Task00/obj/Debug/net7.0/Task00.AssemblyInfo.cs
+/Users/kristinanesterova/Desktop/C#/Task00/obj/Debug/net7.0/Task00.csproj.CoreCompileInputs.cache
+/Users/kristinanesterova/Desktop/C#/Task00/obj/Debug/net7.0/Task00.dll
+/Users/kristinanesterova/Desktop/C#/Task00/obj/Debug/net7.0/refint/Task00.dll
+/Users/kristinanesterova/Desktop/C#/Task00/obj/Debug/net7.0/Task00.pdb
+/Users/kristinanesterova/Desktop/C#/Task00/obj/Debug/net7.0/Task00.genruntimeconfig.cache
+/Users/kristinanesterova/Desktop/C#/Task00/obj/Debug/net7.0/ref/Task00.dll
