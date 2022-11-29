@@ -1,0 +1,15 @@
+/Users/kristinanesterova/Desktop/C#/Task6/bin/Debug/net7.0/Task6
+/Users/kristinanesterova/Desktop/C#/Task6/bin/Debug/net7.0/Task6.deps.json
+/Users/kristinanesterova/Desktop/C#/Task6/bin/Debug/net7.0/Task6.runtimeconfig.json
+/Users/kristinanesterova/Desktop/C#/Task6/bin/Debug/net7.0/Task6.dll
+/Users/kristinanesterova/Desktop/C#/Task6/bin/Debug/net7.0/Task6.pdb
+/Users/kristinanesterova/Desktop/C#/Task6/obj/Debug/net7.0/Task6.csproj.AssemblyReference.cache
+/Users/kristinanesterova/Desktop/C#/Task6/obj/Debug/net7.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinanesterova/Desktop/C#/Task6/obj/Debug/net7.0/Task6.AssemblyInfoInputs.cache
+/Users/kristinanesterova/Desktop/C#/Task6/obj/Debug/net7.0/Task6.AssemblyInfo.cs
+/Users/kristinanesterova/Desktop/C#/Task6/obj/Debug/net7.0/Task6.csproj.CoreCompileInputs.cache
+/Users/kristinanesterova/Desktop/C#/Task6/obj/Debug/net7.0/Task6.dll
+/Users/kristinanesterova/Desktop/C#/Task6/obj/Debug/net7.0/refint/Task6.dll
+/Users/kristinanesterova/Desktop/C#/Task6/obj/Debug/net7.0/Task6.pdb
+/Users/kristinanesterova/Desktop/C#/Task6/obj/Debug/net7.0/Task6.genruntimeconfig.cache
+/Users/kristinanesterova/Desktop/C#/Task6/obj/Debug/net7.0/ref/Task6.dll

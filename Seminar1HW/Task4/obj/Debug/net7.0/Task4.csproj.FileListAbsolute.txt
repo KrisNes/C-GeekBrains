@@ -1,0 +1,15 @@
+/Users/kristinanesterova/Desktop/C#/Task4/bin/Debug/net7.0/Task4
+/Users/kristinanesterova/Desktop/C#/Task4/bin/Debug/net7.0/Task4.deps.json
+/Users/kristinanesterova/Desktop/C#/Task4/bin/Debug/net7.0/Task4.runtimeconfig.json
+/Users/kristinanesterova/Desktop/C#/Task4/bin/Debug/net7.0/Task4.dll
+/Users/kristinanesterova/Desktop/C#/Task4/bin/Debug/net7.0/Task4.pdb
+/Users/kristinanesterova/Desktop/C#/Task4/obj/Debug/net7.0/Task4.csproj.AssemblyReference.cache
+/Users/kristinanesterova/Desktop/C#/Task4/obj/Debug/net7.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinanesterova/Desktop/C#/Task4/obj/Debug/net7.0/Task4.AssemblyInfoInputs.cache
+/Users/kristinanesterova/Desktop/C#/Task4/obj/Debug/net7.0/Task4.AssemblyInfo.cs
+/Users/kristinanesterova/Desktop/C#/Task4/obj/Debug/net7.0/Task4.csproj.CoreCompileInputs.cache
+/Users/kristinanesterova/Desktop/C#/Task4/obj/Debug/net7.0/Task4.dll
+/Users/kristinanesterova/Desktop/C#/Task4/obj/Debug/net7.0/refint/Task4.dll
+/Users/kristinanesterova/Desktop/C#/Task4/obj/Debug/net7.0/Task4.pdb
+/Users/kristinanesterova/Desktop/C#/Task4/obj/Debug/net7.0/Task4.genruntimeconfig.cache
+/Users/kristinanesterova/Desktop/C#/Task4/obj/Debug/net7.0/ref/Task4.dll
