@@ -7,14 +7,21 @@
 // 44, 5, 78 -> 78
 // 22, 3, 9 -> 22
 
-Console.WriteLine("Введите 3 целых числа: ");
-var a = Decimal.Parse(Console.ReadLine());
-var b = Decimal.Parse(Console.ReadLine());
-var c = Decimal.Parse(Console.ReadLine());
+Console.Write("Введите первое целое число: ");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите второе целое число: ");
+int b = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите третье целое число: ");
+int c = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine();
 
 int max = a;
 if (b > max)
+{
     max = b;
+}
 if (c > max)
+{
     max = c;
+}
 Console.WriteLine("Наибольшее из введённых чисел -> " + max);
