@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kristinanesterova/Desktop/C#/Seminar2HW/Task13/Task13.csproj",
-      "projectName": "Task13",
-      "projectPath": "/Users/kristinanesterova/Desktop/C#/Seminar2HW/Task13/Task13.csproj",
+      "projectUniqueName": "/Users/kristinanesterova/Desktop/C#/Seminar2HW/Task15/Task15.csproj",
+      "projectName": "Task15",
+      "projectPath": "/Users/kristinanesterova/Desktop/C#/Seminar2HW/Task15/Task15.csproj",
       "packagesPath": "/Users/kristinanesterova/.nuget/packages/",
-      "outputPath": "/Users/kristinanesterova/Desktop/C#/Seminar2HW/Task13/obj/",
+      "outputPath": "/Users/kristinanesterova/Desktop/C#/Seminar2HW/Task15/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kristinanesterova/.nuget/NuGet/NuGet.Config"
